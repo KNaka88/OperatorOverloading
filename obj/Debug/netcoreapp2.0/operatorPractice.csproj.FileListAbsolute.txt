@@ -1,0 +1,11 @@
+/Users/koji/Repositories/Csharp/operatorPractice/bin/Debug/netcoreapp2.0/operatorPractice.deps.json
+/Users/koji/Repositories/Csharp/operatorPractice/bin/Debug/netcoreapp2.0/operatorPractice.runtimeconfig.json
+/Users/koji/Repositories/Csharp/operatorPractice/bin/Debug/netcoreapp2.0/operatorPractice.runtimeconfig.dev.json
+/Users/koji/Repositories/Csharp/operatorPractice/bin/Debug/netcoreapp2.0/operatorPractice.dll
+/Users/koji/Repositories/Csharp/operatorPractice/bin/Debug/netcoreapp2.0/operatorPractice.pdb
+/Users/koji/Repositories/Csharp/operatorPractice/obj/Debug/netcoreapp2.0/operatorPractice.csprojResolveAssemblyReference.cache
+/Users/koji/Repositories/Csharp/operatorPractice/obj/Debug/netcoreapp2.0/operatorPractice.csproj.CoreCompileInputs.cache
+/Users/koji/Repositories/Csharp/operatorPractice/obj/Debug/netcoreapp2.0/operatorPractice.AssemblyInfoInputs.cache
+/Users/koji/Repositories/Csharp/operatorPractice/obj/Debug/netcoreapp2.0/operatorPractice.AssemblyInfo.cs
+/Users/koji/Repositories/Csharp/operatorPractice/obj/Debug/netcoreapp2.0/operatorPractice.dll
+/Users/koji/Repositories/Csharp/operatorPractice/obj/Debug/netcoreapp2.0/operatorPractice.pdb
